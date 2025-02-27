@@ -1,0 +1,15 @@
+First question.
+ 0. **Freedom to Run**: The freedom to use the program for any purpose.  
+1. **Freedom to Study and Modify**: The freedom to study how the program works and adapt it to your needs (requires access to source code).  
+2. **Freedom to Redistribute**: The freedom to share copies of the program to help others.  
+3. **Freedom to Improve and Share Modifications**: The freedom to distribute modified versions, giving the community the benefit of your changes.  
+Second question. **User Autonomy**: Proprietary software restricts users, creating a power imbalance between developers and users. Free software ensures users control their own computing.  
+- **Social Responsibility**: Sharing software fosters collaboration and collective progress, whereas hoarding source code is "antisocial."  
+- **Preventing Digital Dependence**: Free software prevents users from becoming dependent on developers who restrict access or modifications.  
+- **Moral Imperative**: Stallman frames software freedom as a fundamental right, essential for a just and equitable digital society.  
+Third question.**free software is a social movement**, while **open source is a development methodology**. The divide is ideological, not technical.
+
+
+Write 
+The ethical dilemma highlighted in the GNU article revolves around copyright’s paradoxical role: conceived to foster creativity, it is routinely exploited by proprietary software to suppress user freedoms, prioritizing corporate dominance over public empowerment. This misuse starkly contradicts **software libre principles**, which enshrine freedom (to use, study, modify, and share code), transparency, and user sovereignty as foundational rights. Proprietary systems weaponize copyright to impose artificial scarcity, conceal functionality, and trap users in dependency—practices antithetical to the libre ethos of collective agency and trust. My stance aligns with the Free Software Foundation’s deontological assertion that **user autonomy is an inherent right**, not a negotiable concession. Software must ethically serve its users, not subordinate them to opaque, profit-driven hierarchies. Copyleft licenses, like the GPL, exemplify this by subverting copyright’s restrictive logic: they enforce freedom through legal reciprocity, ensuring derivatives remain libre. Philosophically, this mirrors Rawlsian justice—structuring systems to uplift the least advantaged—and rejects utilitarian trade-offs that sacrifice liberty for efficiency. Critics argue copyright incentivizes innovation, yet libre software proves collaboration thrives without coercion, as seen in projects like Linux and Wikipedia. The core issue is not copyright itself but its ethical application; libre software redefines it as a shield for freedom, not a weapon of control. By prioritizing equity over extraction, it transforms technology into a democratic force, where code becomes a public good rather than a privatized commodity. This synthesis of ethics and pragmatism underscores that user rights are inseparable from technological progress—a moral imperative as vital as free speech.  
+  
